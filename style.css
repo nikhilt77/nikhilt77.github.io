@@ -167,7 +167,7 @@ body {
     align-items: center;
 }
 @media screen and(max-width:800px){
-    .Ab,.container,.class,.detel{
+    .hero,.Ab,.container,.class,.detel{
         flex-direction: column;
     }
 }
