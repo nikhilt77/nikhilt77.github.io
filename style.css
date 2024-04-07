@@ -65,21 +65,8 @@ span{
     transform:translate(-50%);
     transition:bottom 1s,left 1s;
 }
-.contact{
-    position:relative;
-    min-height: 100vh;
-    padding: 50px 100px;
-    display:flex;
-    justify-content: center;
-    align-items:center;
-    flex-direction:column;
-}
-.container{
-    color:royalblue;
-    margin:20px;
-    font-family: Times New Roman;
 
-}
+
 .text{
     color:blue;
     font-family: Arial;
@@ -154,14 +141,14 @@ body {
     
 }
 .prf ul li a{
-    color:darkcyan;
+    color:rgb(12, 145, 145);
     font-display:initial;
     
 }
 .prf ul li a:hover{
     align-items: center;
     font-family:sans-serif;
-    color:chartreuse;
+    color:rgb(255, 132, 0);
 }
 .head{
     align-items: center;
